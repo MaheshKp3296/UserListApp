@@ -1,0 +1,130 @@
+{
+    "users": [
+        {
+            "name": "Aishi",
+            "fullName": "Aishwarya B ",
+            "email": "giddi@gmail.com",
+            "mobNumber": 8050664643
+        },
+        {
+            "name": "Ajay",
+            "fullName": "Ajay K ",
+            "email": "ajay@gmail.com",
+            "mobNumber": 8050664643
+        },
+        {
+            "name": "Akram",
+            "fullName": "Wasim Akram",
+            "email": "wasimAkram@gmail.com",
+            "mobNumber": 8050664643
+        },
+        {
+            "name": "Bharat",
+            "fullName": "Bharat J",
+            "email": "bharat@gmail.com",
+            "mobNumber": 8050664643
+        },
+        {
+            "name": "Farhan",
+            "fullName": "Farhan Akhtar",
+            "email": "fAkhtar@gmail.com",
+            "mobNumber": 8050664643
+        },
+        {
+            "name": "Chetan",
+            "fullName": "Chetan D",
+            "email": "chetanD@gmail.com",
+            "mobNumber": 8050664643
+        },
+        {
+            "name": "Eklavya",
+            "fullName": "Eklavya D",
+            "email": "eklavya@gmail.com",
+            "mobNumber": 8050664643
+        },
+        {
+            "name": "David",
+            "fullName": "David Jindal",
+            "email": "jindalDavid@gmail.com",
+            "mobNumber": 8728378233
+        },
+        {
+            "name": "Shraddha",
+            "fullName": "Shraddha W",
+            "email": "shraddha@gmail.com",
+            "mobNumber": 965888989
+        },
+        {
+            "name": "Nikhil Sir",
+            "fullName": "Nikhil Jain",
+            "email": "nikhilSir@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Shubham",
+            "fullName": "Shubham Shetty",
+            "email": "shubham@gmail.com",
+            "mobNumber": 6767789789
+        },
+        {
+            "name": "Ram",
+            "fullName": "Ram J",
+            "email": "ramJ@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Lakshman",
+            "fullName": "Laxman D",
+            "email": "lakshmanJ@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Prem",
+            "fullName": "Prem kapoor",
+            "email": "pKapoor@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Salman",
+            "fullName": "Salman K",
+            "email": "sk@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Shahrukh",
+            "fullName": "Shahrukh K",
+            "email": "sKhan@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Sanjay",
+            "fullName": "Sanjay D",
+            "email": "baba@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Katrina",
+            "fullName": "Katrina K",
+            "email": "cat@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Disha",
+            "fullName": "Disha Patani",
+            "email": "priyanka@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Kaira",
+            "fullName": "Kaira Advani",
+            "email": "Kaira@gmail.com",
+            "mobNumber": 9487894348
+        },
+        {
+            "name": "Kriti",
+            "fullName": "Kriti Kharabanda",
+            "email": "kritiK@gmail.com",
+            "mobNumber": 9487894348
+        }
+        ]
+}
